@@ -15,19 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table>
-  <thead>
-    <tr>
-      <th>
-          <a href="https://github.com/anuraghazra/github-readme-stats%22%3E
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=KiteJun92&show_icons=true&count_private=true&hide=contribs&hide_border=true&theme=graywhite" />
-        </a>
-      </th>
-      <th>
-        <a href="https://github.com/anuraghazra/github-readme-stats%22%3E
-         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiteJun92&layout=compact&hide_border=true&theme=graywhite" />
-        </a>
-      </th>
-    </tr>
-  </thead>
-</table>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiteJun92&show_icons=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiteJun92)](https://github.com/anuraghazra/github-readme-stats)
